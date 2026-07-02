@@ -167,6 +167,6 @@ cython_debug/
 .cognee_system/
 *.db
 
-# Node dependencies 
+# Node dependencies (accidentally installed)
 node_modules/
 
